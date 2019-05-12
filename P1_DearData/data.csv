@@ -1,0 +1,122 @@
+Activity Iindex, Category, Task name, With whom/To who, Time
+1, Socialise, Sending email, Thai Friends, 180
+2, Socialise, Sending email, Thai Friends, 180
+3, Socialise, Sending email, Thai Friends, 3600
+4, Socialise, Sending email, Thai Friends, 3600
+5, Socialise, Sending email, International Friends, 3600
+6, Socialise, Sending email, International Friends, 3600
+7, Socialise, Sending email, Familly, 3600
+8, Socialise, Sending email, Professor, 3600
+9, Socialise, Sending email, Professor, 10000
+10, Socialise, Sending email, Professor, 10000
+11, Socialise, On Call, Thai Friends, 180
+12, Socialise, On Call, Thai Friends, 180
+13, Socialise, On Call, Thai Friends, 3600
+14, Socialise, On Call, International Friends, 3600
+15, Socialise, On Call, International Friends, 3600
+16, Socialise, On Call, Familly, 10000
+17, Socialise, On Call, Familly, 10000
+18, Socialise, On Call, Familly, 10000
+19, Socialise, On Call, Familly, 3600
+20, Socialise, On Call, Familly, 3600
+21, Socialise, On Call, Familly, 3600
+22, Socialise, Presenting, International Friends, 10000
+23, Socialise, Presenting, International Friends, 10000
+24, Socialise, Helping somebody, Thai Friends, 60
+25, Socialise, Helping somebody, Thai Friends, 60
+26, Socialise, Helping somebody, Thai Friends, 60
+27, Socialise, Helping somebody, Thai Friends, 60
+28, Socialise, Helping somebody, International Friends, 60
+29, Socialise, Helping somebody, International Friends, 60
+30, Socialise, Helping somebody, International Friends, 60
+31, Socialise, Helping somebody, International Friends, 60
+32, Socialise, Helping somebody, International Friends, 60
+33, Socialise, Helping somebody, International Friends, 60
+34, Socialise, Helping somebody, International Friends, 60
+35, Socialise, Tweeting, Myself, 60
+36, Socialise, Tweeting, Myself, 60
+37, Socialise, Tweeting, Myself, 60
+38, Socialise, Tweeting, Myself, 60
+39, Socialise, Tweeting, Myself, 60
+40, Socialise, Tweeting, Thai Friends, 60
+41, Socialise, Tweeting, Thai Friends, 60
+42, Socialise, Tweeting, Thai Friends, 60
+43, Socialise, Tweeting, Thai Friends, 60
+44, Socialise, Tweeting, Thai Friends, 60
+45, Socialise, Tweeting, Thai Friends, 60
+46, Socialise, Tweeting, Thai Friends, 60
+47, Socialise, Tweeting, Thai Friends, 60
+48, Socialise, Tweeting, Thai Friends, 60
+49, Socialise, Tweeting, Thai Friends, 60
+50, Socialise, Tweeting, Thai Friends, 60
+51, Socialise, Tweeting, Thai Friends, 60
+52, Socialise, Tweeting, Thai Friends, 60
+53, Socialise, Tweeting, Thai Friends, 60
+54, Work, Meeting, Thai Friends, 10000
+55, Work, Meeting, Thai Friends, 10000
+56, Work, Meeting, International Friends, 10000
+57, Work, Meeting, International Friends, 3600
+58, Work, Meeting, International Friends, 3600
+59, Work, Meeting, Professor, 3600
+60, Work, Writing a report, International Friends, 3600
+61, Work, Writing a report, Professor, 10000
+62, Work, Writing a report, Professor, 10000
+63, Work, Writing a report, Professor, 10000
+64, Work, Coding, Myself, 10000
+65, Work, Coding, Myself, 3600
+66, Work, Coding, Myself, 3600
+67, Work, Coding, Myself, 3600
+68, Work, Coding, Myself, 10000
+69, Work, Coding, Thai Friends, 10000
+70, Work, Coding, International Friends, 3600
+71, Work, Coding, International Friends, 3600
+72, Work, Coding, International Friends, 10000
+73, Work, Coding, International Friends, 10000
+74, Work, Coding, International Friends, 10000
+75, Housework, Home related works, Myself, 3600
+76, Housework, Home related works, Myself, 3600
+77, Housework, Home related works, Myself, 3600
+78, Housework, Home related works, Myself, 10000
+79, Housework, Home related works, Thai Friends, 10000
+80, Housework, Home related works, Thai Friends, 10000
+81, Housework, Home related works, International Friends, 10000
+82, Housework, Home related works, International Friends, 10000
+83, Housework, Home related works, International Friends, 10000
+84, Housework, Home related works, International Friends, 180
+85, Housework, Buying something, Myself, 10000
+86, Housework, Buying something, Myself, 180
+87, Housework, Buying something, Myself, 60
+88, Housework, Buying something, Myself, 60
+89, Housework, Buying something, Myself, 60
+90, Housework, Buying something, Thai Friends, 60
+91, Housework, Buying something, Thai Friends, 60
+92, Housework, Buying something, Thai Friends, 60
+93, Housework, Buying something, Thai Friends, 60
+94, Housework, Buying something, International Friends, 60
+95, Housework, Buying something, International Friends, 60
+96, Housework, Buying something, International Friends, 180
+97, Housework, Buying something, International Friends, 180
+98, Problem Solving, Getting an idea, Myself, 60
+99, Problem Solving, Getting an idea, Myself, 60
+100, Problem Solving, Getting an idea, Myself, 60
+101, Problem Solving, Getting an idea, Myself, 60
+102, Problem Solving, Getting an idea, Myself, 60
+103, Problem Solving, Getting an idea, Myself, 60
+104, Problem Solving, Getting an idea, Myself, 60
+105, Problem Solving, Getting an idea, Thai Friends, 60
+106, Problem Solving, Getting an idea, Thai Friends, 60
+107, Problem Solving, Getting an idea, International Friends, 60
+108, Problem Solving, Planning, Myself, 60
+109, Problem Solving, Planning, Myself, 60
+110, Problem Solving, Planning, Myself, 60
+111, Problem Solving, Planning, Myself, 60
+112, Problem Solving, Planning, Myself, 60
+113, Problem Solving, Planning, Myself, 60
+114, Problem Solving, Solving a problem, Myself, 60
+115, Problem Solving, Solving a problem, Myself, 60
+116, Problem Solving, Solving a problem, Myself, 60
+117, Problem Solving, Solving a problem, Myself, 60
+118, Problem Solving, Solving a problem, Myself, 60
+119, Problem Solving, Solving a problem, Myself, 60
+120, Problem Solving, Solving a problem, Thai Friends, 60
+121, Problem Solving, Solving a problem, International Friends, 60
